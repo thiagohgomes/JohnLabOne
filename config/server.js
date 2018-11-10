@@ -9,7 +9,7 @@ var app = express();
 
 //views
 app.set('view engine', 'ejs');
-app.set('views', '/app/views');
+app.set('views', './app/views');
 
 //middlewares
 app.use(express.static('./app/public'));
@@ -19,9 +19,9 @@ app.use(expressValidator());
 
 //inludes
 consign()
-	.include('routes')
+	.include('app/routes')
 	.then('app/models')
-	.then('app/controller')
+	.then('app/controllers')
 	.into(app);
 
 
