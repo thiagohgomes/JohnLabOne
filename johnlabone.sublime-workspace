@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"req"
+			],
+			[
+				"expres",
+				"expressValidator"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"notici",
+				"noticia"
+			],
+			[
+				"pro",
+				"proto\tPrototype"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"noti",
+				"noticias"
+			],
+			[
+				"c",
+				"callback"
+			],
+			[
+				"get",
+				"getNoticias"
+			],
+			[
+				"noticias",
+				"noticiasModel"
+			],
+			[
+				"no",
+				"noticiasModel"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne"
+	],
+	"file_history":
+	[
+		"/Users/thiagohgomes/Library/Caches/com.binarynights.ForkLift2/#6/php.ini",
+		"/Users/thiagohgomes/Library/Caches/com.binarynights.ForkLift2/#5/php.ini",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/multiroom_chat/app/controllers/chat.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/multiroom_chat/app/controllers/index.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/multiroom_chat/app/routes/index.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/multiroom_chat/app/routes/chat.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/multiroom_chat/app.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/multiroom_chat/config/server.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/multiroom_chat/app/views/index.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/controllers/noticias.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/models/NoticiasDAO.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/views/noticias/noticias.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/views/home/index.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/views/noticias/noticia.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/controllers/admin.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/views/admin/form_add_noticia.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/controllers/home.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/config/server.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/routes/admin.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/routes/noticias.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/routes/home.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/routes/noticia.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/config/dbConnection.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node copy/app/routes/admin.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node copy/app/views/admin/form_add_noticia.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/models/noticiasModel.js",
+		"/Users/thiagohgomes/Downloads/lecture_38 -  Inserindo registros no banco de dados MySQL/app/views/admin/form_add_noticia.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/routers/noticias.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/routers/formulario_inclusao_noticia.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/app/routers/home.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/noticias.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/views/secao/tecnologia.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/package.json",
+		"/Users/thiagohgomes/Library/Caches/com.binarynights.ForkLift2/#2/header.php",
+		"/Users/thiagohgomes/Downloads/wordpress/AddHandler php7-script .php",
+		"/Users/thiagohgomes/Library/Caches/com.binarynights.ForkLift2/#0/banner.js",
+		"/Users/thiagohgomes/Library/Containers/com.eltima.cloudmounter.mas/Data/.CMVolumes/Mavee/public_html/js/banner.js",
+		"/Users/thiagohgomes/Library/Containers/com.eltima.cloudmounter.mas/Data/.CMVolumes/Mavee/public_html/mavee.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "johnlabone.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
