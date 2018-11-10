@@ -5,7 +5,7 @@ app.listen(process.env.PORT || 80, function(){
 })
 */
 
-var app = require('config/server');
+var app = require('/config/server');
 
 var http = require('http');
 
