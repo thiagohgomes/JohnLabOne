@@ -6,6 +6,9 @@ app.listen(process.env.PORT || 8080, function(){
 */
 
 var app = require('./config/server');
+app.listen(process.env.PORT || 8080);
+
+
 /*var http = require('http');
 
 http.createServer(function (req, res) {
