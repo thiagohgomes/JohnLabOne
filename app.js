@@ -7,7 +7,7 @@ app.listen(process.env.PORT || 80, function(){
 var http = require('http');
 
 http.createServer(function (req, res) {
-    var app = require('config/server');
+    //var app = require('config/server');
     res.writeHead(200, { 'Content-Type': 'text/html' });
     res.end('Hello, world!');
     
