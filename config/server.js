@@ -8,8 +8,8 @@ var consign = require('consign');
 var app = express();
 
 //views
-app.set('view engine', 'ejs');
-app.set('views', './app/views');
+//app.set('view engine', 'ejs');
+//app.set('views', './app/views');
 
 //middlewares
 //app.use(express.static('./app/public'));
