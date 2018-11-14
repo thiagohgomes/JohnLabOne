@@ -4,6 +4,7 @@ var app = express();
 app.set('view engine', 'ejs');
 
 app.get('/', function(req,res){
+<<<<<<< HEAD
     res.render('home/index');
 });
 
@@ -27,6 +28,8 @@ var app = express();
 app.set('view engine', 'ejs');
 
 app.get('/', function(req,res){
+=======
+>>>>>>> cdd6235d48a0be8de81cce404fc573b47f06243a
     res.send("<html><body>Portal de Notícias</body></html>");
 });
 
@@ -37,7 +40,11 @@ app.get('/tecnologia', function(req,res){
 app.listen(process.env.PORT || 3000, function(){
     console.log("Servidor rodando com Express");
 });
+<<<<<<< HEAD
 */
+=======
+
+>>>>>>> cdd6235d48a0be8de81cce404fc573b47f06243a
 
 
 /*
