@@ -4,7 +4,6 @@ var app = express();
 app.set('view engine', 'ejs');
 
 app.get('/', function(req,res){
-<<<<<<< HEAD
     res.render('home/index');
 });
 
@@ -42,10 +41,6 @@ app.listen(process.env.PORT || 3000, function(){
 });
 <<<<<<< HEAD
 */
-=======
-
->>>>>>> cdd6235d48a0be8de81cce404fc573b47f06243a
-
 
 /*
 var express = require('express');
