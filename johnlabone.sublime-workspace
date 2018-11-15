@@ -82,12 +82,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne"
-	],
 	"file_history":
 	[
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/app.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne_amazon/app.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne_amazon/views/secao/tecnologia.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne_amazon/index.html",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/config/server.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/web.config",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/app/routes/cadastro.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/app/views/cadastro.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/app/routes/index.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/app/controllers/cadastro.js",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/app/views/restrictpage.ejs",
+		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/GithubProjects/JohnLabOne/app/views/index.ejs",
 		"/Users/thiagohgomes/Library/Caches/com.binarynights.ForkLift2/#6/php.ini",
 		"/Users/thiagohgomes/Library/Caches/com.binarynights.ForkLift2/#5/php.ini",
 		"/Users/thiagohgomes/Library/Mobile Documents/com~apple~CloudDocs/curso_node/multiroom_chat/app/controllers/chat.js",
@@ -130,7 +138,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
