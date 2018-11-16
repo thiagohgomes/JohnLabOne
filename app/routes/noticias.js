@@ -12,7 +12,7 @@ module.exports = function(app){
 
         connection.query("SELECT * FROM noticias", function(error, result){
             if(result != null)
-            	res.send(result);
+            	res.render('noticias/noticias', { noticias : result });
             else
             	res.send(error);
         });
