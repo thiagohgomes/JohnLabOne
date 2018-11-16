@@ -2,8 +2,9 @@ module.exports = function(app){
     app.get('/noticias', function(req,res){
 
     	var connection = app.config.dbConnection();    
+		var noticiasModel = app.app.models.noticiasModel;
 
-        connection.query("SELECT * FROM noticias", function(error, result){
+        noticiasModel.getNoticias(connection, function(error, result){
             if(result != null)
             	res.render('noticias/noticias', { noticias : result });
             else
